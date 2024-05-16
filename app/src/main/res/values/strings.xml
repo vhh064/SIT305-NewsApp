@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Task5.1C</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_tab">Home</string>
+    <string name="sport_tab">Sports</string>
+    <string name="health_tab">Healths</string>
+    <string name="technology_tab">Technologies</string>
+    <string name="entertainment_tab">Entertainments</string>
+    <string name="science_tab">Science</string>
+
+</resources>
